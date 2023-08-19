@@ -1,6 +1,4 @@
-<h1>Reconstructing Synthetic Label Framework</h1>
-
-Codes and Dataset for ECAI 2023 paper "Training Data Optimization for Persona-Grounded Dialog via Synthetic Label Augmentation"
+<h1>Synthetic Label Augmentation Framework</h1>
 
 ### Dataset ###
 
